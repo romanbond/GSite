@@ -1,0 +1,41 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1487529370495">
+  <folder name="css">
+    <file name="site_global.css" crc="197781841"/>
+    <file name="index.css" crc="507833576" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u908.php" crc="3940597128" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="marcela-laskoski-118684-u1186-fr.png" crc="4096837715" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="matty-adame-valencia-200085.jpg" crc="4177405770" ref="index"/>
+    <file name="5660131.jpg" crc="3891068968" ref="index"/>
+    <file name="github-mark-32px.png" crc="131609420" seo="true" ref="index"/>
+    <file name="i9rprio.jpg" crc="218005887" ref="index"/>
+    <file name="y5ehbxo.jpg" crc="79107761" ref="index"/>
+    <file name="u910-17.png" crc="3825086926" ref="index"/>
+    <file name="u910-17-r.png" crc="309136728" ref="index"/>
+    <file name="u910-17-m.png" crc="309136728" ref="index"/>
+    <file name="u910-17-fs.png" crc="3965515506" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3933660440" seo="true" mt="1487527470643" redirect="true"/>
+</manifest>
